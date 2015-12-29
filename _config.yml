@@ -11,11 +11,11 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://dweisz.github.io/
-baseurl: /
+baseurl: dweisz.github.io
 title: Dan Weisz
 author: Dan Weisz
 description: Homepage
-avatar: profile_dw.png
+avatar: profile.png
 email: dweisz@uw.edu
 github: dweisz
 twitter: bigticketdw
