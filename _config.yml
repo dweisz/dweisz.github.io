@@ -11,7 +11,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://dweisz.github.io/
-baseurl: /dweisz.github.io/
+baseurl: /
 title: Dan Weisz
 author: Dan Weisz
 description: Homepage
