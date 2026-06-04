@@ -3,6 +3,12 @@
 # Optional: photo, email
 
 # Example entries - replace with your actual alumni
+
+- name: Meredith Durbin
+  duration: 2023-2026
+  role: Postdoctoral Researcher
+  info: Postdoctoral Researcher at University of Washington
+
 - name: Alessandro Savino
   duration: 2020-2026
   role: Postdoctoral Researcher
