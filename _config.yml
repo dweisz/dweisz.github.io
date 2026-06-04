@@ -34,7 +34,7 @@ analytics:
   google_id: ""
   # Umami analytics — paste the Website ID from your Umami dashboard to enable.
   # If self-hosting, change umami_src to your instance's script URL.
-  umami_website_id: ""
+  umami_website_id: "f8013ab2-39a4-436c-9a4d-3032454935d5"
   umami_src: "https://cloud.umami.is/script.js"
 
 # ============================================================
