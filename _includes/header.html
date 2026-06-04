@@ -1,17 +1,49 @@
-<nav class="navbar navbar-default">
-  <div class="container">
-    <div class="navbar-header">
-      <a class="navbar-brand" href="dweisz.github.io"><i class="fa fa-home"></i></a>
-    </div>
-    <div id="navbar">
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="{{ site.baseurl }}bio.html">BIO</a></li>
-        <li><a href="{{ site.baseurl }}projects.html">RESEARCH</a></li>
-        <li><a href="{{ site.baseurl }}teaching.html">TEACHING</a></li>
-        <li><a href="{{ site.baseurl }}group.html">GROUP</a></li>
-        <li><a href="https://ui.adsabs.harvard.edu/#search/q=author%3A%22weisz%2C+d%22&sort=date+desc">PUBLICATIONS</a></li>
-        <li><a href="https://github.com/dweisz/dweisz.github.io/blob/master/_includes/new_weisz_cv_short.pdf">CV</a></li>
+<nav class="navbar sticky-top navbar-expand-md">
+  <div class="container" style="max-width: var(--container-max);">
+    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="24" height="24" class="navbar-icon d-inline-block align-text-top">
+        <rect width="64" height="64" rx="14" fill="#003cba"/>
+        <text x="32" y="44" font-family="Georgia,serif" font-size="30" font-weight="700" fill="white" text-anchor="middle">{{ site.name | truncate: 1, "" }}{{ site.name | split: " " | last | truncate: 1, "" }}</text>
+      </svg>
+      {{ site.name | escape }}
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item">
+          <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ site.url }}{{ site.baseurl }}/">Home</a>
+        </li>
+        {% for nav in site.nav_pages %}
+        <li class="nav-item">
+          <a class="nav-link{% if page.url contains nav.name %} active{% endif %}" href="{{ site.url }}{{ site.baseurl }}/{{ nav.name }}">{% if nav.name == 'cv' %}CV{% elsif nav.name == 'for_students' %}For Students{% else %}{{ nav.name | capitalize }}{% endif %}</a>
+        </li>
+        {% endfor %}
       </ul>
+      <div class="d-flex align-items-center" style="gap: var(--space-2);">
+        <button class="search-toggle" id="searchToggle" aria-label="Search site">
+          <i class="fa-solid fa-magnifying-glass"></i>
+        </button>
+        {% if site.dark_mode %}
+        <button class="dark-mode-toggle" id="darkModeToggle" aria-label="Toggle dark mode">
+          <i class="fa-solid fa-sun" id="themeIcon"></i>
+        </button>
+        {% endif %}
+      </div>
     </div>
   </div>
 </nav>
+
+<!-- Search overlay -->
+<div class="search-overlay" id="searchOverlay">
+<div class="search-modal">
+<div class="search-input-wrapper">
+<i class="fa-solid fa-magnifying-glass search-input-icon"></i>
+<input type="text" class="search-input" id="searchInput" placeholder="Search pages..." autocomplete="off">
+<kbd class="search-kbd">ESC</kbd>
+</div>
+<div class="search-results" id="searchResults"></div>
+</div>
+</div>

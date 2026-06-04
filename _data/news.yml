@@ -1,0 +1,31 @@
+# News items shown on the home page sidebar.
+# The 3 most recent are shown; all appear on /allnews.
+# Each entry needs: date, headline
+# Optional: link (URL) — the headline becomes a clickable link
+- date: 2026
+  headline: "Awarded a Miller Professorship for 2026–2027 by UC Berkeley's Miller Institute"
+  link: "https://astro.berkeley.edu/news/professor-dan-weisz-awarded-miller-professorship-2026-2027"
+
+- date: 2025
+  headline: "Our HST survey of Andromeda's satellite system is featured by NASA, Smithsonian Magazine, and UC Berkeley News"
+  link: "https://www.stsci.edu/contents/news-releases/2025/news-2025-005"
+
+- date: 2024
+  headline: "UC Berkeley selected to manage NASA's UVEX mission to map the ultraviolet sky"
+  link: "https://news.berkeley.edu/2024/03/25/uc-berkeley-will-manage-300-million-nasa-mission-to-map-the-uv-universe/"
+
+- date: 2024
+  headline: "NASA confirms UVEX (Ultraviolet Explorer) as a MIDEX mission; I serve as Project Scientist and Stars & Galaxies Science Lead"
+  link: "https://www.nasa.gov/news-release/new-nasa-mission-will-study-ultraviolet-sky-stars-stellar-explosions/"
+
+- date: 2020
+  headline: "Featured as an AAS keynote speaker (Astrobites profile)"
+  link: "https://astrobites.org/2020/01/06/meet-the-aas-keynote-speakers-dan-weisz/"
+
+- date: 2019
+  headline: "Awarded the Newton Lacy Pierce Prize by the American Astronomical Society"
+  link: "https://news.berkeley.edu/2019/01/08/young-astronomer-honored-for-research-on-smallest-galaxies-in-the-universe/"
+
+- date: 2017
+  headline: "Named a Sloan Research Fellow by the Alfred P. Sloan Foundation"
+  link: "https://news.berkeley.edu/2017/02/21/sloan-fellowships-awarded-to-five-faculty-rising-stars/"

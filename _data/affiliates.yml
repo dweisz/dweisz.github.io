@@ -1,0 +1,29 @@
+# Group affiliates — shown on the Team page as photo cards.
+# Each entry needs: name, photo, info
+# Optional: email, website, scholar, github
+# Photos go in images/ or images/team/
+# The section only appears once at least one entry below is uncommented.
+
+# - name: Affiliate Name
+#   photo: team/affiliate.jpg
+#   info: Affiliate (2024-), Institution, Research Area
+#   website: https://example.com
+#   scholar: https://scholar.google.com/citations?user=...
+
+- name: Meredith Durbin
+  photo: team/meredith_durbin.png
+  info: Postdoctoral Fellow at UW (2026-), Resolved Stellar Populations, Crowded Field Photometry, Nearby Galaxies
+  #email: student2@berkeley.edu
+  website: https://meredith-durbin.github.io
+
+- name: Yifei Luo
+  photo: team/yifei_luo.jpg
+  info: Postdoctoral Fellow at LBNL (2024-), Dwarf Galaxies, Dark Matter, Surveys
+  #email: student2@berkeley.edu
+  website: https://www.yifei-luo.com
+
+- name: Dominick Rowan
+  photo: team/dominick_rowan.jpg
+  info: NHFP Fellow at UCB (2025-), binary stars, compact objects, large all-sky surveys
+  #email: student2@berkeley.edu
+  website: https://dmrowan.github.io

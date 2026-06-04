@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" role="img"><title>Color-magnitude diagram</title><desc>Axes with an isochrone curve and scattered resolved stars.</desc>
+<rect width="400" height="200" fill="#f0ece4"/>
+<line x1="72" y1="26" x2="72" y2="162" stroke="#1a7a6d" stroke-width="1.5"/>
+<line x1="72" y1="162" x2="346" y2="162" stroke="#1a7a6d" stroke-width="1.5"/>
+<path d="M250,150 C200,142 152,122 132,82 C124,62 142,52 167,50 C197,48 217,42 237,33" fill="none" stroke="#b45309" stroke-width="2"/>
+<circle cx="246" cy="146" r="2.5" fill="#1a7a6d"/>
+<circle cx="222" cy="138" r="2" fill="#1a7a6d"/>
+<circle cx="196" cy="128" r="2.5" fill="#2563eb"/>
+<circle cx="170" cy="112" r="2" fill="#1a7a6d"/>
+<circle cx="150" cy="96" r="2.5" fill="#2563eb"/>
+<circle cx="138" cy="74" r="2" fill="#1a7a6d"/>
+<circle cx="150" cy="56" r="2.5" fill="#2563eb"/>
+<circle cx="178" cy="50" r="2" fill="#1a7a6d"/>
+<circle cx="206" cy="44" r="2.5" fill="#1a7a6d"/>
+<circle cx="228" cy="37" r="2" fill="#2563eb"/>
+<circle cx="258" cy="142" r="2" fill="#2563eb"/>
+<text x="209" y="190" font-family="Georgia,serif" font-size="11" fill="#8a857c" text-anchor="middle">Color–magnitude diagram of resolved stars</text>
+</svg>

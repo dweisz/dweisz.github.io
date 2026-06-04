@@ -1,0 +1,87 @@
+# Former lab members.
+# Each entry needs: name, duration, info, role
+# Optional: photo, email
+
+# Example entries - replace with your actual alumni
+- name: Alessandro Savino
+  duration: 2020-2026
+  role: Postdoctoral Researcher
+  info: Observational Astronomer at <a href="https://www.vyoma.space">Vyoma</a>
+
+- name: Aliza Beverage
+  duration: 2019-2025
+  role: PhD Student
+  info: <a href="https://alizabeverage.github.io">NHFP Hubble Fellow at Carnegie Observatories</a>
+
+- name: Brian Lorenz
+  duration: 2019-2025
+  role: PhD Student
+  info: Data Scientist at <a href="https://www.blissway.com">Blissway</a>
+
+- name: Maude Gull
+  duration: 2019-2025
+  role: PhD Student
+  info: <a href="https://maudegull.github.io">Carnegie-Caltech Brinson Fellow</a>
+
+- name: Sal Fu
+  duration: 2019-2025
+  role: PhD Student
+  info: <a href="https://swfu.github.io">NSF Astronomy and Astrophysics Postdoctoral Fellow at Princeton</a>
+
+- name: Yumi Choi
+  duration: 2022-2023
+  role: Postdoctoral Researcher
+  info: Assistant Astronomer at <a href="https://noirlab.edu">NOIRLab</a>
+
+- name: Nathan Sandford
+  duration: 2017-2023
+  role: PhD Student
+  info: <a href="https://nathansandford.github.io">Postdoctoral Fellow at Toronto</a>    
+
+- name: Pranav Nagarajan
+  duration: 2021-2022
+  role: Undergraduate Student
+  info: <a href="https://pranav-nagarajan.github.io">Astro PhD Student at Caltech</a> 
+
+- name: Ekta Patel
+  duration: 2019-2022
+  role: Miller Fellow
+  info: <a href="https://www.ektapatelastro.com">Faculty Member at Villanova</a>
+
+- name: Kareem El-Badry
+  duration: 2016-2021
+  role: PhD Student
+  info: <a href="https://kareemelbadry.github.io">Faculty Member at Caltech</a>  
+
+- name: Tom Zick
+  duration: 2018-2020
+  role: PhD Student
+  info: Director of Responsible AI at <a href="https://www.schwab.com">Charles Schwab</a>
+
+- name: Yong Zheng
+  duration: 2018-2021
+  role: Miller Fellow
+  info: <a href="https://faculty.rpi.edu/yong-zheng">Faculty Member at RPI</a>
+
+- name: Anna McLeod
+  duration: 2019-2020
+  role: NHFP Fellow
+  info: <a href="https://www.astro.dur.ac.uk/~dwvw48/">Faculty Member at Durham University</a>    
+
+- name: Nick Choksi
+  duration: 2017-2019
+  role: Undergraduate Student
+  info: <a href="https://nickchoksi.github.io">51 Peg Fellow at Caltech</a>
+
+- name: Saundra Albers
+  duration: 2016-2019
+  role: Master's Student
+  info: Resident Doctor at <a href="https://obgyn.weillcornell.org/saundra-albers-md-ma">Weill Cornell Medicine</a>  
+
+
+
+# Add your actual alumni entries below by copying the format above
+# - name: Your Alumni Name
+#   duration: YYYY-YYYY
+#   role: PhD Student / Postdoctoral Fellow / etc.
+#   info: Current position and institution

@@ -1,0 +1,10 @@
+# Optional: detailed education and bio for the About page.
+# Basic info (name, photo, links) now lives in _config.yml.
+# Delete this file if you only need the basics.
+
+- education:
+    - "(2010) Ph.D. Astronomy and Astrophysics, University of Minnesota"
+    - "(2004) B.S. Physics and Astronomy, University of California, Berkeley"
+  educationshort:
+    - "(2010) Ph.D. Astronomy & Astrophysics, University of Minnesota"
+    - "(2004) B.S. Physics & Astronomy, UC Berkeley"

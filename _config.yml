@@ -1,21 +1,116 @@
-# top level stuff you probably don't need to touch
-highlighter: rouge
-rdiscount:
-  extensions: [smart]
-permalink: /:title.html
-paginate: 5
-port: 3000
-safe: true
-
-
-# edit here to achieve your personal greatness
-url: http://dweisz.github.io/
-baseurl: /
-title: Dan Weisz
-author: Dan Weisz
-description: Homepage
-avatar: profile.png
+# ============================================================
+# STEP 1: Your Identity (required)
+# ============================================================
+name: "Dan Weisz"
+title: "Associate Professor of Astronomy"
+institution: "University of California, Berkeley"
 email: dan.weisz@berkeley.edu
-github: dweisz
-twitter: #bigticketdw
-google_analytics: UA-69770503-1
+photo: headshot.png  # place your photo in images/
+
+# ============================================================
+# STEP 2: Your Links (optional -- delete any you don't use)
+# ============================================================
+links:
+  google_scholar: ""
+  github: "https://github.com/dweisz"
+  researchgate: ""
+  orcid: "https://orcid.org/0000-0002-6442-6030"
+  scix: "https://scixplorer.org/search?p=1&q=docs%28library%2FbZBIaNVIT5Wr7pwBfVYeCw%29&sort=date+desc&d=astrophysics"
+  twitter: ""
+  linkedin: ""
+  cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
+
+# ============================================================
+# STEP 3: Site Settings
+# ============================================================
+accent_color: "#003cba"      # UC Berkeley blue theme color for links and buttons
+dark_mode: true              # show dark mode toggle in navbar
+description: "Research on galaxy formation, stellar populations, and the evolution of galaxies in the local Universe using observations from Hubble and James Webb Space Telescopes"
+baseurl: ""
+url: "https://dweisz.github.io"
+
+# Google Analytics — paste your GA4 measurement ID, or leave blank
+analytics:
+  google_id: ""
+  # Umami analytics — paste the Website ID from your Umami dashboard to enable.
+  # If self-hosting, change umami_src to your instance's script URL.
+  umami_website_id: ""
+  umami_src: "https://cloud.umami.is/script.js"
+
+# ============================================================
+# STEP 4: Choose Your Pages (comment out any you don't need)
+# ============================================================
+nav_pages:
+  - name: cv
+  - name: bio
+  - name: publications
+  - name: research
+  - name: team
+  - name: for_students
+  # - name: talks
+  # - name: software
+  # - name: teaching
+  # - name: blogs
+
+# ============================================================
+# Advanced Settings (you probably don't need to change these)
+# ============================================================
+include:
+  - .htaccess
+  - _pages
+
+sass:
+  quiet_deps: true
+  style: compressed
+
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true
+
+plugins: ["jekyll/scholar", "jekyll-sitemap"]
+
+scholar:
+  last_name: Weisz
+  first_name: [Dan]
+  style: citesty
+  locale: en
+  source: /assets/
+  bibliography: ref.bib
+  bibliography_template: bibtemplate
+  sort_by: year, month
+  order: descending
+  replace_strings: true
+  join_strings: true
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+  query: "@*"
+  limit: false
+  max_entries: -1
+  bibliography_list_attributes:
+    reversed: "reversed"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - update_bootstrap.sh
+  - switch_theme.sh
+  - tags
+  - Rakefile
+  - node_modules
+  - package.json
+  - package-lock.json
+  - docs

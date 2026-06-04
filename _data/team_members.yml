@@ -1,0 +1,52 @@
+# Current students and postdocs.
+# Each entry needs: name, photo, info
+# Optional: email, website, scholar, github, researchgate, cv
+# Photos go in images/ or images/team/
+
+# Example entries - replace with your actual group members
+- name: Katie Sharpe
+  photo: team/Katherine-Sharpe.jpg
+  info: Grad Student (2023-), NSF GRFP, JWST Stellar Abundances, Dwarf Galaxies, Chemical Evolution
+ # email: student1@berkeley.edu
+  # website: https://example.com
+  # scholar: https://scholar.google.com/citations?user=...
+
+- name: Hien Nyguen
+  #photo: team/Katherine-Sharpe.jpg
+  info: Postbac (2024-), UVEX low-mass galaxies
+ # email: student1@berkeley.edu
+  # website: https://example.com
+  # scholar: https://scholar.google.com/citations?user=...
+
+- name: Maya Basu
+  #photo: team/Katherine-Sharpe.jpg
+  info: Postbac (2025-), UVEX image simulator
+ # email: student1@berkeley.edu
+  # website: https://example.com
+  # scholar: https://scholar.google.com/citations?user=...  
+
+
+- name: Abby Lee
+  photo: team/abby_lee.jpg
+  info: NHFP and Miller Fellow (2025-), AGB Stars, Nearby Galaxies, Hubble Constant
+  #email: student2@berkeley.edu
+  website: https://abiglee7.github.io
+
+- name: Gregoire Aufort
+  photo: team/gregoire_aufort.jpg
+  info: UVEX Postdoctoral Researcher (2025-), Star Formation Histories, Galaxy Surveys, Statistical Modeling
+  #email: student2@berkeley.edu
+  #website: https://abiglee7.github.io
+
+#- name: Visiting Scholar
+#  photo: team/placeholder.svg
+#  info: Visiting Scholar
+#  email: visitor@berkeley.edu
+
+# Uncomment and add your actual members below
+# - name: Your Name
+#   photo: team/photo.jpg
+#   info: PhD Student/Postdoc, Your Research Area
+#   email: yourname@berkeley.edu
+#   scholar: https://scholar.google.com/citations?user=...
+#   github: https://github.com/yourname

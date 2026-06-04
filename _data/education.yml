@@ -1,0 +1,15 @@
+# Education - easily editable format
+- degree: "PhD"
+  field: "Astrophysics"
+  institution: "University of Minnesota"
+  start: "Aug 2004"
+  end: "Aug 2010"
+  details:
+    - "Thesis: The History of Star Formation in Nearby Dwarf Galaxies"
+    - "PhD Advisor: Evan Skillman"
+
+- degree: "BA"
+  field: "Physics and Astrophysics Double Major"
+  institution: "University of California, Berkeley"
+  start: "Aug 2000"
+  end: "May 2004"

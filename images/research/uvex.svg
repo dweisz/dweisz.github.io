@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" role="img"><title>UVEX telescope</title><desc>A space telescope emitting ultraviolet wavefronts toward stars.</desc>
+<rect width="400" height="200" fill="#f0ece4"/>
+<circle cx="300" cy="48" r="2.5" fill="#1a7a6d"/>
+<circle cx="342" cy="80" r="2" fill="#1a7a6d"/>
+<circle cx="320" cy="120" r="3" fill="#1a7a6d"/>
+<circle cx="356" cy="44" r="2" fill="#2563eb"/>
+<circle cx="290" cy="100" r="2" fill="#2563eb"/>
+<rect x="80" y="76" width="60" height="34" rx="6" fill="none" stroke="#1a7a6d" stroke-width="2"/>
+<rect x="138" y="80" width="9" height="26" rx="2" fill="#1a7a6d" opacity="0.5"/>
+<rect x="92" y="48" width="36" height="14" rx="2" fill="#2563eb" opacity="0.25" stroke="#2563eb" stroke-width="1"/>
+<rect x="92" y="124" width="36" height="14" rx="2" fill="#2563eb" opacity="0.25" stroke="#2563eb" stroke-width="1"/>
+<line x1="110" y1="62" x2="110" y2="76" stroke="#1a7a6d" stroke-width="1.5"/>
+<line x1="110" y1="110" x2="110" y2="124" stroke="#1a7a6d" stroke-width="1.5"/>
+<path d="M155,73 A22 22 0 0 1 155,113" fill="none" stroke="#b45309" stroke-width="2" opacity="0.9"/>
+<path d="M168,66 A34 34 0 0 1 168,120" fill="none" stroke="#b45309" stroke-width="2" opacity="0.6"/>
+<path d="M182,58 A47 47 0 0 1 182,128" fill="none" stroke="#b45309" stroke-width="2" opacity="0.35"/>
+<text x="200" y="190" font-family="Georgia,serif" font-size="11" fill="#8a857c" text-anchor="middle">Mapping the ultraviolet sky</text>
+</svg>

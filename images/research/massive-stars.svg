@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" role="img"><title>Hot massive star</title><desc>A luminous massive star with radiating spikes inside a wind-blown shell, in a sparse metal-poor field.</desc>
+<rect width="400" height="200" fill="#f0ece4"/>
+<circle cx="200" cy="90" r="46" fill="none" stroke="#b45309" stroke-width="1.5" stroke-dasharray="4 5" opacity="0.55"/>
+<line x1="213" y1="90" x2="234" y2="90" stroke="#2563eb" stroke-width="2"/>
+<line x1="187" y1="90" x2="166" y2="90" stroke="#2563eb" stroke-width="2"/>
+<line x1="200" y1="77" x2="200" y2="56" stroke="#2563eb" stroke-width="2"/>
+<line x1="200" y1="103" x2="200" y2="124" stroke="#2563eb" stroke-width="2"/>
+<line x1="209" y1="80" x2="224" y2="66" stroke="#2563eb" stroke-width="2"/>
+<line x1="191" y1="80" x2="176" y2="66" stroke="#2563eb" stroke-width="2"/>
+<line x1="209" y1="100" x2="224" y2="114" stroke="#2563eb" stroke-width="2"/>
+<line x1="191" y1="100" x2="176" y2="114" stroke="#2563eb" stroke-width="2"/>
+<circle cx="200" cy="90" r="18" fill="#2563eb" opacity="0.2"/>
+<circle cx="200" cy="90" r="9" fill="#2563eb"/>
+<circle cx="90" cy="54" r="2" fill="#1a7a6d"/>
+<circle cx="320" cy="60" r="2.5" fill="#1a7a6d"/>
+<circle cx="110" cy="142" r="2" fill="#1a7a6d"/>
+<circle cx="302" cy="136" r="2" fill="#1a7a6d"/>
+<circle cx="62" cy="100" r="2.5" fill="#1a7a6d"/>
+<text x="200" y="190" font-family="Georgia,serif" font-size="11" fill="#8a857c" text-anchor="middle">Massive stars in metal-poor dwarfs</text>
+</svg>
