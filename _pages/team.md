@@ -141,4 +141,4 @@ permalink: /team/
 
 ## Openings
 
-We are always looking for motivated students and postdocs interested in astronomy research. Please see the [for students]({{ site.url }}{{ site.baseurl }}/for_students/) page for details on undergraduate, PhD, and postdoctoral opportunities.
+I am always interested in talking with motivated students and postdocs interested in astronomy research. Please see the [for students]({{ site.url }}{{ site.baseurl }}/for_students/) page for details on undergraduate, PhD, and postdoctoral opportunities.
