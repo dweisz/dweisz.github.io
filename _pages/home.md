@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <h2 class="home-hero">{{ site.name }}</h2>
-<p class="home-hero-sub">{{ site.title }}, {{ site.institution }}<br>Affiliate Astronomer at Space Sciences Lab</p>
+<p class="home-hero-sub">{{ site.title }}, {{ site.institution }}<br>Affiliate Astronomer at Space Sciences Lab<br>2026&#8211;2027 Miller Professor</p>
 
 <div class="chip-container" markdown="0">
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Galactic Archaeology</a>
