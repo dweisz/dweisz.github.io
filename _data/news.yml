@@ -3,6 +3,10 @@
 # Each entry needs: date, headline
 # Optional: link (URL) — the headline becomes a clickable link
 - date: 2026
+  headline: "Group member Abby Lee awarded the 2025 IAU PhD Prize by the International Astronomical Union"
+  link: "https://astro.berkeley.edu/news/abigail-lee-has-been-awarded-2025-iau-phd-prize"
+
+- date: 2026
   headline: "Awarded a Miller Professorship for 2026–2027 by UC Berkeley's Miller Institute"
   link: "https://astro.berkeley.edu/news/professor-dan-weisz-awarded-miller-professorship-2026-2027"
 
