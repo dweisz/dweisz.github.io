@@ -30,6 +30,10 @@
   headline: "NASA confirms UVEX (Ultraviolet Explorer) as a MIDEX mission"
   link: "https://www.nasa.gov/news-release/new-nasa-mission-will-study-ultraviolet-sky-stars-stellar-explosions/"
 
+- date: 2022
+  headline: "Astronomers prepare to put James Webb Space Telescope through its paces, featured by UC Berkeley News"
+  link: "https://phys.org/news/2022-01-astronomers-james-webb-space-telescope.html"
+
 - date: 2020
   headline: "Featured as an AAS keynote speaker (Astrobites profile)"
   link: "https://astrobites.org/2020/01/06/meet-the-aas-keynote-speakers-dan-weisz/"
@@ -49,7 +53,3 @@
 - date: 2015
   headline: "Hubble survey unlocks clues to star birth in neighboring Andromeda galaxy"
   link: "https://science.nasa.gov/missions/hubble/hubble-survey-unlocks-clues-to-star-birth-in-neighboring-galaxy/"
-
-- date: 2022
-  headline: "Astronomers prepare to put James Webb Space Telescope through its paces, featured by UC Berkeley News"
-  link: "https://phys.org/news/2022-01-astronomers-james-webb-space-telescope.html"
