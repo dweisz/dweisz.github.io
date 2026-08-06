@@ -38,6 +38,11 @@
   #email: student2@berkeley.edu
   #website: https://abiglee7.github.io
 
+- name: Jack Warfield
+  photo: team/jack_warfield.jpg
+  info: Postdoctoral Researcher (2026-), Nearby Galaxies, Astrometry, proper motions, galaxy formation
+  website: https://jackwarfield.com
+
 #- name: Visiting Scholar
 #  photo: team/placeholder.svg
 #  info: Visiting Scholar

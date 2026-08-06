@@ -3,6 +3,10 @@
 # Each entry needs: date, headline
 # Optional: link (URL) — the headline becomes a clickable link
 - date: 2026
+  headline: "NASA's Hubble shows star formation in Andromeda galaxy winding down"
+  link: "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/"
+
+- date: 2026
   headline: "Group member Abby Lee awarded the 2025 IAU PhD Prize by the International Astronomical Union"
   link: "https://astro.berkeley.edu/news/abigail-lee-has-been-awarded-2025-iau-phd-prize"
 
