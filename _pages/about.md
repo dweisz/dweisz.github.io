@@ -42,7 +42,7 @@ permalink: /about/
 <h3>Education & Career</h3>
 <p><strong>Education:</strong> I completed a BA in Physics and Astrophysics from UC Berkeley in 2004, and earned my PhD in Astrophysics from the University of Minnesota in 2010, advised by Evan Skillman. My dissertation focused on the star formation histories of nearby dwarf galaxies.</p>
 
-<p><strong>Career:</strong> After my PhD, I held postdoctoral positions at the University of Washington and served as a Hubble Fellow at UC Santa Cruz and the University of Washington. I have been on the faculty at UC Berkeley since 2016, first as an Assistant Professor and since 2020 as an Associate Professor in the Astronomy Department.</p>
+<p><strong>Career:</strong> After my PhD, I held postdoctoral positions at the University of Washington and served as a Hubble Fellow at UC Santa Cruz and the University of Washington. I have been on the faculty at UC Berkeley since 2016, first as an Assistant Professor, then as an Associate Professor, and as a Professor in the Astronomy Department since 2026.</p>
 </div>
 
 {% if site.data.awards %}

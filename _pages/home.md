@@ -38,6 +38,6 @@ My research focuses on understanding how galaxies form by studying the resolved 
 
 ### About me
 
-I am an Associate Professor in the [Astronomy Department at UC Berkeley](https://astro.berkeley.edu/), where I returned as faculty in 2016 after completing my undergraduate degree here in 2004. I earned my PhD in Astrophysics from the University of Minnesota in 2010, advised by Evan Skillman, and held postdoctoral and Hubble Fellowship positions at the University of Washington and UC Santa Cruz before joining the Berkeley faculty.
+I am a Professor in the [Astronomy Department at UC Berkeley](https://astro.berkeley.edu/), where I returned as faculty in 2016 after completing my undergraduate degree here in 2004. I earned my PhD in Astrophysics from the University of Minnesota in 2010, advised by Evan Skillman, and held postdoctoral and Hubble Fellowship positions at the University of Washington and UC Santa Cruz before joining the Berkeley faculty.
 
 You can read more on my [biography]({{ site.url }}{{ site.baseurl }}/bio/) page or browse my [publications]({{ site.url }}{{ site.baseurl }}/publications/).

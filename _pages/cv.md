@@ -51,7 +51,9 @@ h3 {
 
 ### Academic Positions
 
-**Associate Professor**, Astronomy Department, UC Berkeley (July 2020 – Present)
+**Professor**, Astronomy Department, UC Berkeley (July 2026 – Present)
+
+**Associate Professor**, Astronomy Department, UC Berkeley (July 2020 – June 2026)
 
 **Assistant Professor**, Astronomy Department, UC Berkeley (July 2016 – June 2020)
 
