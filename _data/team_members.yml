@@ -11,6 +11,9 @@
   # website: https://example.com
   # scholar: https://scholar.google.com/citations?user=...
 
+- name: Aster Winkler
+  info: Grad Student (2026-), Star Formation, Nearby Galaxies
+
 - name: Hien Nyguen
   #photo: team/Katherine-Sharpe.jpg
   info: Postbac (2024-), UVEX low-mass galaxies
@@ -23,7 +26,10 @@
   info: Postbac (2025-), UVEX image simulator
  # email: student1@berkeley.edu
   # website: https://example.com
-  # scholar: https://scholar.google.com/citations?user=...  
+  # scholar: https://scholar.google.com/citations?user=...
+
+- name: Caitlin Begbie
+  info: Postbac (2026-), Near-IR photometry, calibration, galaxy distances
 
 
 - name: Abby Lee
