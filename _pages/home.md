@@ -19,6 +19,13 @@ permalink: /
 
 My research focuses on understanding how galaxies form by studying the resolved stellar populations of nearby galaxies. Using observations from facilities like the Hubble Space Telescope and the James Webb Space Telescope, I investigate the formation histories, chemical abundance patterns of galaxies in and around the Local Group to constrain models of galaxy formation, dark matter distribution, and the physics of star formation across cosmic time. I lead several major observational programs, including a comprehensive <a href="https://archive.stsci.edu/hlsp/m31-satellites">HST survey of M31's satellite system</a>, the <a href="https://ers-stars.github.io/">JWST Early Release Science program on resolved stellar populations</a>, and the J-Virgo Treasury survey of the Virgo Cluster. As Project Scientist for the <a href="https://www.ipac.caltech.edu/project/uvex">Ultraviolet Explorer (UVEX) mission</a>, I am developing the next generation of UV surveys that will map millions of local low-mass star-forming galaxies, survey low-metallicity massive stars, provide new insights into the transient sky at UV wavelengths.
 
+<div class="callout callout-success" markdown="0">
+<div class="callout-title"><i class="fa-solid fa-bullhorn callout-icon"></i> We're Hiring: Postdoctoral Scholars</div>
+<p>
+I am seeking up to <strong>two postdoctoral scholars</strong> to join my group at UC Berkeley, starting Fall 2027. The positions focus on imaging and spectroscopy of resolved stellar populations in nearby galaxies with HST, JWST, Euclid, DESI, and Keck, including JWST/HST surveys of M31 and Local Group dwarfs, a JWST treasury program in the Virgo Cluster, a large JWST program on Centaurus A, and a Euclid survey of the Local Volume. Part of each position is available for independent research. The deadline to apply is <strong>December 15, 2026</strong>. <a href="https://aprecruit.berkeley.edu/JPF05593">Apply here &rarr;</a>
+</p>
+</div>
+
 <div class="callout callout-info" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Honors & Awards</div>
 <p>
