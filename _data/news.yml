@@ -3,6 +3,10 @@
 # Each entry needs: date, headline
 # Optional: link (URL) — the headline becomes a clickable link
 - date: 2026
+  headline: "NASA's UVEX space telescope passes Key Decision Point C, with launch targeted by January 2031"
+  link: "https://science.nasa.gov/blogs/uvex/2026/10/27/nasas-uvex-space-telescope-successfully-passes-key-milestone/"
+
+- date: 2026
   headline: "NASA's Hubble shows star formation in Andromeda galaxy winding down"
   link: "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/"
 
