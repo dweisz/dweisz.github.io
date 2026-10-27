@@ -3,6 +3,10 @@
 # Each entry needs: date, headline
 # Optional: link (URL) — the headline becomes a clickable link
 - date: 2026
+  headline: "Berkeley's management of UVEX leans on decades of ultraviolet expertise at the Space Sciences Lab"
+  link: "https://www.ssl.berkeley.edu/berkeleys-management-of-uvex-mission-leans-on-decades-of-ultraviolet-expertise-at-ssl/"
+
+- date: 2026
   headline: "NASA's UVEX space telescope passes Key Decision Point C, with launch targeted by January 2031"
   link: "https://science.nasa.gov/blogs/uvex/2026/10/27/nasas-uvex-space-telescope-successfully-passes-key-milestone/"
 
