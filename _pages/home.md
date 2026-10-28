@@ -26,6 +26,25 @@ I am seeking up to <strong>two postdoctoral scholars</strong> to join my group a
 </p>
 </div>
 
+{% assign review_arxiv = "https://arxiv.org/abs/2610.36040" %}
+{% assign review_movie = "https://doi.org/10.5281/zenodo.23627360" %}
+
+<div class="banner-frame review-feature" markdown="0">
+<a href="{% if review_arxiv != "" %}{{ review_arxiv }}{% else %}{{ review_movie }}{% endif %}" class="review-feature-img">
+<img src="{{ site.url }}{{ site.baseurl }}/images/review-fig7.jpg" alt="Simulated dwarf galaxy rendered as resolved stars, with HST, JWST, Roman, and Rubin footprints and its star formation history, color-magnitude diagram, and chemical abundances" loading="lazy">
+</a>
+<div class="review-feature-body">
+<div class="review-feature-kicker">Review Article · Physics Reports</div>
+<div class="review-feature-title">The Stellar Populations of Resolved Galaxies</div>
+<p>A review of galaxy formation through the lens of resolved stars, from the history of HST and the Local Group through the new frontiers with JWST, Roman, and Rubin. Image: Galaxy archaeology in practice for a simulated dwarf galaxy. The movie shows its evolution across cosmic time.</p>
+<div class="review-feature-links">
+{% if review_arxiv != "" %}<a href="{{ review_arxiv }}" class="chip"><i class="fa-solid fa-file-lines"></i> Read the review</a>{% else %}<span class="chip chip-pending"><i class="fa-solid fa-file-lines"></i> arXiv link coming soon</span>{% endif %}
+<a href="{{ site.url }}{{ site.baseurl }}/images/review-fig7-fullres.jpg" class="chip"><i class="fa-solid fa-image"></i> Full-resolution figure</a>
+<a href="{{ review_movie }}" class="chip"><i class="fa-solid fa-film"></i> Watch the movie</a>
+</div>
+</div>
+</div>
+
 <div class="callout callout-info" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Honors & Awards</div>
 <p>
@@ -35,11 +54,6 @@ I am seeking up to <strong>two postdoctoral scholars</strong> to join my group a
 <strong>Sloan Research Fellowship</strong><br>
 <strong>Alexander von Humboldt Fellowship</strong>
 </p>
-</div>
-
-<div class="banner-frame" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/images/andromeda-banner.jpg" alt="Andromeda galaxy" loading="lazy">
-<div class="banner-caption">HST observations of the Andromeda galaxy showing resolved stellar populations.</div>
 </div>
 
 ### About me
